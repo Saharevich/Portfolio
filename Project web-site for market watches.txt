@@ -1,0 +1,295 @@
+HTML web-site for market watches
+
+<!DOCTYPE html>
+  <html lang="en"> 
+  <head>
+      <meta charset="UTF-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE-edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Watches</title>
+	  
+	  <link rel="stylesheet" href="main.css" >
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+	  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	  <link href="https://fonts.googleapis.com/css2?family=League+Spartan&display=swap" rel="stylesheet">
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+	  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;700&display=swap" rel="stylesheet">
+  </head>
+<body>
+	<header class="header">
+			<div>
+			<p class="header-tittle">mor705</p>
+			<h1 class="header-subtittle">Watch</h1>
+			<p class="header-description">The watch also features a tough and durable <br>sapphire a Swiss Sellita SW200-1 automatic<br>winding movement that has a power reserve</p>
+			
+			<div class="buy-wrapper">
+			<a href="https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D1%8B%D1%85+%D1%87%D0%B0%D1%81%D0%BE%D0%B2+%D0%B2+%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BC+%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5&sxsrf=AJOqlzWf-Cw_vpJMn35GtgRjtVYgu4BtrA:1677300635565&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdycHk76_9AhW8-DgGHbGmD_wQ_AUoAXoECAEQAw&biw=958&bih=951&dpr=1#imgrc=rlWzzM9Keiyp_M&imgdii=S3EEIwRHQTYLIM" class="buy-link">Buy watch</a>
+			<div class="price">1700$</div>
+		</div>		
+	  	</div>
+			<div>
+			<img
+			    class="header-image1"
+				 srcset="C:/Users/User/OneDrive/Рабочий стол/image watches 1.jpg,
+						 C:/Users/User/OneDrive/Рабочий стол/image watches 1.jpg 2x"
+				 src="C:/Users/User/OneDrive/Рабочий стол/image watches 1.jpg" alt="Image watches 1">
+		</div>
+	
+	</header>
+		<main>
+		<p class="popular-tittle">popular</p>
+		<h2 class="models-tittle">Models</h2>
+		<div class="items-wrapper">
+			<div>
+		<img
+		     class="item-image2"
+			 srcset="C:/Users/User/OneDrive/Рабочий стол/image watches 2.jpg,
+					 C:/Users/User/OneDrive/Рабочий стол/image watches 2.jpg 2x"
+			 src="C:/Users/User/OneDrive/Рабочий стол/image watches 2.jpg" alt="Image watches 2">
+	</div>
+		<h2 class="items-tittle">Son22</h2>
+		<p class="item-description">The watch also features a tough and<br>durable sapphire crystal glass and comes<br>with a Swiss SW200-1 automatic winding<br>movement that has a power reserve.</p>
+		<div class="buy-wrapper">
+			<a href="https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D1%8B%D1%85+%D1%87%D0%B0%D1%81%D0%BE%D0%B2+%D0%B2+%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BC+%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5&sxsrf=AJOqlzWf-Cw_vpJMn35GtgRjtVYgu4BtrA:1677300635565&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdycHk76_9AhW8-DgGHbGmD_wQ_AUoAXoECAEQAw&biw=958&bih=951&dpr=1#imgrc=rlWzzM9Keiyp_M&imgdii=S3EEIwRHQTYLIM" class="buy-link-2">Buy watch</a>
+			<div class="price-2">1300$</div>
+		</div>
+		</div>
+		<div class="items-wrapper">
+			<div>
+		<img
+		 class="item-image3"
+		srcset="C:/Users/User/OneDrive/Рабочий стол/image watches 3.jpg,
+					 C:/Users/User/OneDrive/Рабочий стол/image watches 3.jpg 2x"
+	    src="C:/Users/User/OneDrive/Рабочий стол/image watches 3.jpg" alt="Image watches 3">
+			</div>
+		<h2 class="items-tittle">Sw12</h2>
+		<p class="popular-tittle">The watch also features a tough and<br>durable sapphire crystal glass and<br> comes with a Sw12-1 automatic winding
+		</p>
+			<div class="buy-wrapper">
+			<a href="https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D1%8B%D1%85+%D1%87%D0%B0%D1%81%D0%BE%D0%B2+%D0%B2+%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BC+%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5&sxsrf=AJOqlzWf-Cw_vpJMn35GtgRjtVYgu4BtrA:1677300635565&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjdycHk76_9AhW8-DgGHbGmD_wQ_AUoAXoECAEQAw&biw=958&bih=951&dpr=1#imgrc=rlWzzM9Keiyp_M&imgdii=S3EEIwRHQTYLIM" class="buy-link-3">Buy watch</a>
+				<div class="price-3">1500$</div>
+			</div>
+		</div>
+		<div>
+		 	<p class="finish">Product Description</p>
+			<p class="description">Inspired by the WWI trench watch, this timepiece has<br> a contemporary design with on orban style and a<br> vintage soul. The 22 Design Studio Concrete Sector<br> Watch reinterprets the old timepiece with a concrete<br> diol. Handmade in Taiwan, the dial is cast in one<br> piece using the beton technique <a href="/" class="product-link">more detailed</a>
+			</p>
+		</div>
+	</main>
+ </body>
+</html>
+
+
+CSS
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+body {
+	font-family: 'League Spartan', sans-serif;
+}
+
+.header {
+	display: flex;
+	width: 1900px;
+	padding-top: 104px;
+	padding-left: 133px;
+	padding-right: 133px;
+	padding-bottom: 168px;
+	background-color: #f8f8f8
+}
+
+.header-tittle {
+	margin-bottom: 53px;
+	font-size: 24px;
+	line-height: 45px;
+}
+
+.header-subtittle {
+	margin-bottom: 43px;
+	font-size: 250px;
+	line-height: 230px;
+	
+}
+
+.header-description {
+	margin-bottom: 61px;
+	font-size: 32px;
+	line-height: 50px;
+}
+
+.buy-wrapper {
+	display: flex;
+}
+
+.buy-link {
+	display: block;
+	width: 278px;
+	height: 82px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.buy-link-2 {
+	margin-top: 50px;
+	display: block;
+	width: 278px;
+	height: 82px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.buy-link-3 {
+	margin-top: 50px;
+	display: block;
+	width: 278px;
+	height: 82px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.price {
+	width: 143px;
+	height: 82px;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.price-2 {
+	margin-top: 50px;
+	width: 143px;
+	height: 82px;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.price-3 {
+	margin-top: 50px;
+	width: 143px;
+	height: 82px;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
+
+.header-image1 {
+	display: flex;
+	width: 872px;
+	margin-top: -74px;
+	margin-left: 250px;
+	background-color: antiquewhite;
+}
+
+.popular-tittle {
+	margin-top: 43px;
+	text-align: center;
+	font-size: 24px;
+	line-height: 45px;
+}
+
+.models-tittle {
+	margin-bottom: 84px;
+	text-align: center;
+	font-size: 72px;
+	line-height: 81px;
+	font-weight: 400;
+}
+
+.item-image2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 617px;
+	height: 630px;
+	background-color: #f8f8f8;
+	margin-bottom: 67px;
+}
+
+.items-tittle {
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 30px;
+	margin-bottom: 17px;
+	text-align: center;
+}
+
+.items-wrapper {
+	margin: 0 auto;
+	width: 600px;
+	margin-bottom: 85px
+}
+
+.item-description {
+	font-size: 32px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.item-image3 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 617px;
+	height: 730px;
+	background-color: #f8f8f8;
+	margin-bottom: 67px;
+}
+
+.finish {
+	margin-bottom: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 32px;
+	text-decoration: underline;
+}
+
+.description {
+	text-align: center;
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+.product-link {
+	color: burlywood;
+	text-decoration: none;
+}
